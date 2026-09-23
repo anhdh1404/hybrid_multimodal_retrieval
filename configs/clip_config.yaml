@@ -1,0 +1,5 @@
+model_name: openai/clip-vit-base-patch32
+device: auto
+batch_size: 16
+max_length: 77
+normalize: true

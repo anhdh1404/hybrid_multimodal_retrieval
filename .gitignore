@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data / generated artifacts
+data/images/
+data/embeddings/
+data/indices/
+data/graphs/
+data/results/
+*.faiss
+*.pt
+*.pth
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

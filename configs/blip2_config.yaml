@@ -1,0 +1,3 @@
+enabled: false
+model_name: Salesforce/blip2-opt-2.7b
+device: auto

@@ -1,0 +1,3 @@
+enabled: true
+semantic_k: 5
+max_degree: 20
