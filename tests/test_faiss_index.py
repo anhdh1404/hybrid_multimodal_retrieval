@@ -1,6 +1,6 @@
 import numpy as np
 
-from src.retrieval.faiss_index import FAISSIndex
+from retrieval.faiss_index import FAISSIndex
 
 
 def test_faiss_search():
